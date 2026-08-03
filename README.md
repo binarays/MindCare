@@ -12,10 +12,10 @@ MindCare is a responsive, single-page web application designed with a clean and 
     <img src="Readme Assets/Demo.gif" alt="MindCare Full Walkthrough" width="100%"/>
 </p>
 
-<p aligin="center">
-    <img src="Readme Assets/Login .png" alt="Login" width="330"/>
-    <img src="Readme Assets/Home.png" alt="Homepage" width="330"/>
-    <img src="Readme Assets/Services.png" alt="Services" width="330"/>
+<p align="center">
+    <img src="Readme Assets/Login .png" alt="Login" width="30%"/>
+    <img src="Readme Assets/Home.png" alt="Homepage" width="30%"/>
+    <img src="Readme Assets/Services.png" alt="Services" width="30%"/>
 </p>
 
 ## Key Features
@@ -65,19 +65,12 @@ Mindcare/
         └── fontawesome-free/
 ```
 
-<br/><br/>
 ## Architecture
-
-
-<br/><br/>
 
 ## License
 
 Distributed under the Copyright License. See [`LICENSE`](LICENSE) for more information.
 
-
-<br/><br/>
-
 ## Contributors
 - [Binara Wijewickrama](https://github.com/binarays)
-- [Zahra Ismail](https://github.com/zahu)
+- [Zahra Ismail](https://github.com/Zahra-Ismail)
