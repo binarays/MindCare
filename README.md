@@ -1,63 +1,49 @@
-<div align="left">
 
-# MindCare
+
+# Mindcare | Mental Health Awareness Platform
 
 **A supportive digital platform for mental health awareness and well-being.**
 
 MindCare is a responsive, single-page web application designed with a clean and calming interface to connect users with essential mental health resources, appointment booking, and support services. The platform helps individuals manage stress, build resilience, foster a sense of community, and achieve personal balance through simple, accessible digital tools.
-<br/><br/>
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://mindcare-ac-lk.web.app/)
 
+<p align="center">
+    <img src="Readme Assets/Demo.gif" alt="MindCare Full Walkthrough" width="100%"/>
+</p>
 
-</div>
-
-<br/><br/>
-
-<div align="left">
-
-<img src="Readme Assets/Demo.gif" alt="MindCare Full Walkthrough" width="700"/>
-
-<br/><br/>
-
-<img src="Readme Assets/Login .png" alt="Login" width="270"/>
-<img src="Readme Assets/Home.png" alt="Homepage" width="270"/>
-<img src="Readme Assets/Services.png" alt="Services" width="270"/>
-
-<br/><br/>
-
-
+<p aligin="center">
+    <img src="Readme Assets/Login .png" alt="Login" width="330"/>
+    <img src="Readme Assets/Home.png" alt="Homepage" width="330"/>
+    <img src="Readme Assets/Services.png" alt="Services" width="330"/>
+</p>
 
 ## Key Features
 
-* **Responsive Design:** Fully optimized for desktop, tablet, and mobile browsers.
-* **User Authentication:** Secure sign-up, login, and session management.
-* **Real-time Updates:** Dynamic data synchronization without page refreshes.
-* **Interactive Dashboard:** Clean UI with rich data visualization and actionable insights.
-* **Optimized Performance:** Fast load times and efficient state management.
-
-<br/><br/>
-
+- **Responsive Design:** Fully optimized for desktop, tablet, and mobile browsers.
+- **User Authentication:** Secure sign-up, login, and session management.
+- **Real-time Updates:** Dynamic data synchronization without page refreshes.
+- **Interactive Dashboard:** Clean UI with rich data visualization and actionable insights.
+- **Optimized Performance:** Fast load times and efficient state management.
 
 ## Tech Stack
 
 | Layer | Technology |
 |---|---|
 | Frontend | Bootstrap |
-| Backend Database | Firebase |
+| Backend | Firebase |
 | Database | Firestore |
-| EmailService | Email js |
+| Email Service | Email js |
 | Hosting | Firebase Hosting |
-
-
-<br/><br/>
 
 ## Project Structure
 
 ```
 Mindcare/
 ├── README.md
-├── index.html                   
+├── index.html
+├── login.html
+├── userdashboard.html                     
 └── assets/
     ├── readtorun.txt
     ├── css/
@@ -87,17 +73,11 @@ Mindcare/
 
 ## License
 
-Distributed under the Copy Right License. See [`LICENSE`](LICENSE) for more information.
+Distributed under the Copyright License. See [`LICENSE`](LICENSE) for more information.
 
 
 <br/><br/>
 
 ## Contributors
-
-
-
-
-
-
-
-
+- [Binara Wijewickrama](https://github.com/binarays)
+- [Zahra Ismail](https://github.com/zahu)
