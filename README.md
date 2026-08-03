@@ -66,6 +66,11 @@ Mindcare/
 ```
 
 ## Architecture
+<p align="center">
+    <img src="Readme Assets/mindcare_architecture (2).png" alt="MindCare Architecture" width="100%"/>
+</p>
+
+
 
 ## License
 
@@ -75,3 +80,4 @@ Distributed under the Copyright License. See [`LICENSE`](LICENSE) for more infor
 - [Binara Wijewickrama](https://github.com/binarays)
 - [Zahra Ismail](https://github.com/Zahra-Ismail)
 - [Heshan Thilakawardena](https://github.com/heshanthilakawardena)
+- [Thamindu Kavinda](https://github.com/)
