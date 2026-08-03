@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>MindCare | User Portal</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+    <!-- Main CSS File -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <Style>
+        body {
+            background-image: url(assets/img/loginpage_back.jpg);
+            background-position: center center;
+            background-attachment: fixed;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    </Style>
+    <!--Loginjs-->
+    <script type="module" src="assets/js/userreg.js" defer></script>
+    <script type="module" src="assets/js/userlogin.js" defer></script>
+</head>
+
+<body>
+    <!-- Userlogin Section -->
+    <section id="userlogin" class="userlogin">
+        <div class="container mt-5">
+            <!-- Upper button section to select login or signup form -->
+            <div class="d-flex justify-content-center mb-4">
+                <!-- Slider Section -->
+                <div class="slider"></div>
+                <dive class="btn-group">
+                    <button class="btn-login">Login</button>
+                    <button class="btn-signup">Signup</button>
+            </div>
+            <!-- Form section that contains the login and signup form -->
+            <div id="form-section" class="form-section">
+                <!-- Login Section -->
+                <form id="login-box" class="login-box active-form" onsubmit="">
+                    <div class="mb-3">
+                        <input type="email" id="lemail" class="ele form-control" placeholder="youremail@email.com" required
+                            autocomplete="email">
+                    </div>
+                    <div class="mb-3">
+                        <input type="password" id="lpassword" class="ele form-control" placeholder="password" required
+                            autocomplete="current-password">
+                    </div>
+                    <button type="submit" id="lsubmit" class="clkbtn btn w-100">Login</button>
+                    <p class="account">Create new account <a href="#" class="btn-login-here">New Accont</a></p>
+                </form>
+
+                <!-- Signup Section -->
+                <form id="signup-box" class="signup-box">
+                    <div class="mb-3">
+                        <input type="text" id="name" class="ele form-control" placeholder="Enter your name" required
+                            autocomplete="name">
+                    </div>
+                    <div class="mb-3">
+                        <input type="email" id="remail" class="ele form-control" placeholder="youremail@email.com"
+                            required autocomplete="email">
+                    </div>
+                    <div class="mb-3">
+                        <input type="password" id="rpassword" class="ele form-control" placeholder="password" required
+                            autocomplete="new-password">
+                    </div>
+                    <div class="mb-3">
+                        <input type="password" id="rcpassword" class="ele form-control" placeholder="Confirm password"
+                            required autocomplete="new-password">
+                    </div>
+                    <p id="erorrpass" class="text-center"></p>
+                    <button type="submit" id="rsubmit" class="clkbtn btn w-100">Signup</button>
+                    <p class="login-here">Do you have an account ? <a href="#" class="btn-login-here">Login Here</a></p>
+                </form>
+            </div>
+        </div>
+
+    </section>
+    <!--JS Files -->
+    <script src="assets/js/login.js"></script>
+</body>
