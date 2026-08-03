@@ -9,7 +9,7 @@ Mindcare is a virtual counseling platform designed to support mental health awar
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://mindcare-ac-lk.web.app/)
 
 <p align="center">
-  <video src="https://github.com/binarays/MindCare/Readme Assets/Demo.mp4" width="100%" controls></video>
+  <img src="Readme Assets/Demo.gif" width="100%">
 </p>
 
 <p align="center">
