@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # MindCare
 
@@ -10,20 +10,6 @@ MindCare helps users manage stress, build resilience, foster community, and achi
 
 
 </div>
-
-
-
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Walkthrough](#walkthrough)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Architecture](#Architecture)
-- [License](#license)
-- [Contributors](#contributors)
 
 
 
@@ -115,7 +101,7 @@ Mindcare/
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+Distributed under the Copy Right License. See [`LICENSE`](LICENSE) for more information.
 
 
 
