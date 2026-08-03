@@ -1,10 +1,10 @@
+<p align="center">
+    <img src="Readme Assets/mindcarebanner.jpg" alt="MindCare Full Walkthrough" width="100%"/>
+</p>
 
+# Mindcare | Virtual Counseling Platform
 
-# Mindcare | Mental Health Awareness Platform
-
-**A supportive digital platform for mental health awareness and well-being.**
-
-MindCare is a responsive, single-page web application designed with a clean and calming interface to connect users with essential mental health resources, appointment booking, and support services. The platform helps individuals manage stress, build resilience, foster a sense of community, and achieve personal balance through simple, accessible digital tools.
+MindCare is a modern virtual counseling platform that provides easy access to mental health resources, support services, and appointment scheduling. Designed with a calm and user-friendly experience, it helps users improve well-being, manage stress, and build a healthier, more balanced lifestyle.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://mindcare-ac-lk.web.app/)
 
