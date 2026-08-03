@@ -74,4 +74,4 @@ Distributed under the Copyright License. See [`LICENSE`](LICENSE) for more infor
 ## Contributors
 - [Binara Wijewickrama](https://github.com/binarays)
 - [Zahra Ismail](https://github.com/Zahra-Ismail)
-- [Heshan Thilakawardhana](https://github.com/heshan-thilakawardhana)
+- [Heshan Thilakawardena](https://github.com/heshanthilakawardena)
