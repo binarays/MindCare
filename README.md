@@ -4,7 +4,7 @@
 
 # Mindcare | Virtual Counseling Platform
 
-MindCare is a modern virtual counseling platform that provides easy access to mental health resources, support services, and appointment scheduling. Designed with a calm and user-friendly experience, it helps users improve well-being, manage stress, and build a healthier, more balanced lifestyle.
+Mindcare is a virtual counseling platform designed to support mental health awareness and personal well-being. It provides users with easy access to counseling sessions, helpful resources, and support services through a simple and calming digital experience. The platform helps individuals manage stress, improve emotional health, build resilience, and create a balanced lifestyle with accessible mental health solutions.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://mindcare-ac-lk.web.app/)
 
