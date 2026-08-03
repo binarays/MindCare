@@ -11,7 +11,8 @@ MindCare helps users manage stress, build resilience, foster community, and achi
 
 </div>
 
----
+
+
 
 ## Table of Contents
 
@@ -24,13 +25,14 @@ MindCare helps users manage stress, build resilience, foster community, and achi
 - [License](#license)
 - [Contributors](#contributors)
 
----
+
+
 
 ## Overview
 
 MindCare is a responsive, single-page web application that connects users with mental health resources, appointment booking, and support services in a clean, calming interface.
 
----
+
 
 ## Walkthrough
 
@@ -50,7 +52,8 @@ MindCare is a responsive, single-page web application that connects users with m
 
 </div>
 
----
+
+
 
 ## Key Features
 
@@ -62,7 +65,8 @@ MindCare is a responsive, single-page web application that connects users with m
 | **Interactive Dashboard** | Clean UI with rich data visualization and actionable insights |
 | **Optimized Performance** | Fast load times and efficient state management |
 
----
+
+
 
 ## Tech Stack
 
@@ -73,7 +77,8 @@ MindCare is a responsive, single-page web application that connects users with m
 | Authentication | Firebase Authentication |
 | Hosting | Firebase Hosting |
 
----
+
+
 
 ## Project Structure
 
@@ -102,15 +107,18 @@ Mindcare/
         └── fontawesome-free/
 ```
 
+
 ## Architecture
 
----
+
+
 
 ## License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
----
+
+
 
 ## Contributors
 
