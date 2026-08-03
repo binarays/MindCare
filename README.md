@@ -4,25 +4,17 @@
 
 **A supportive digital platform for mental health awareness and well-being.**
 
-MindCare helps users manage stress, build resilience, foster community, and achieve personal balance through simple, accessible tools.
+MindCare is a responsive, single-page web application designed with a clean and calming interface to connect users with essential mental health resources, appointment booking, and support services. The platform helps individuals manage stress, build resilience, foster a sense of community, and achieve personal balance through simple, accessible digital tools.
+<br/><br/>
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://mindcare-ac-lk.web.app/)
 
 
 </div>
 
+<br/><br/>
 
-
-
-## Overview
-
-MindCare is a responsive, single-page web application that connects users with mental health resources, appointment booking, and support services in a clean, calming interface.
-
-
-
-## Walkthrough
-
-<div align="center">
+<div align="left">
 
 <img src="Readme Assets/Demo.gif" alt="MindCare Full Walkthrough" width="700"/>
 
@@ -34,24 +26,17 @@ MindCare is a responsive, single-page web application that connects users with m
 
 <br/><br/>
 
-**[View the Live App](https://mindcare-ac-lk.web.app/)**
-
-</div>
-
-
 
 
 ## Key Features
 
-| Feature | Description |
-|---|---|
-| **Responsive Design** | Fully optimized for desktop, tablet, and mobile browsers |
-| **User Authentication** | Secure sign-up, login, and session management |
-| **Real-time Updates** | Dynamic data synchronization without page refreshes |
-| **Interactive Dashboard** | Clean UI with rich data visualization and actionable insights |
-| **Optimized Performance** | Fast load times and efficient state management |
+* **Responsive Design:** Fully optimized for desktop, tablet, and mobile browsers.
+* **User Authentication:** Secure sign-up, login, and session management.
+* **Real-time Updates:** Dynamic data synchronization without page refreshes.
+* **Interactive Dashboard:** Clean UI with rich data visualization and actionable insights.
+* **Optimized Performance:** Fast load times and efficient state management.
 
-
+<br/><br/>
 
 
 ## Tech Stack
@@ -59,19 +44,20 @@ MindCare is a responsive, single-page web application that connects users with m
 | Layer | Technology |
 |---|---|
 | Frontend | Bootstrap |
-| Backend & Database | Firebase |
-| Authentication | Firebase Authentication |
+| Backend Database | Firebase |
+| Database | Firestore |
+| EmailService | Email js |
 | Hosting | Firebase Hosting |
 
 
-
+<br/><br/>
 
 ## Project Structure
 
 ```
 Mindcare/
 ├── README.md
-├── index.html                   # Single-page site (landing, appointment form, contact form)
+├── index.html                   
 └── assets/
     ├── readtorun.txt
     ├── css/
@@ -93,18 +79,18 @@ Mindcare/
         └── fontawesome-free/
 ```
 
-
+<br/><br/>
 ## Architecture
 
 
-
+<br/><br/>
 
 ## License
 
 Distributed under the Copy Right License. See [`LICENSE`](LICENSE) for more information.
 
 
-
+<br/><br/>
 
 ## Contributors
 
