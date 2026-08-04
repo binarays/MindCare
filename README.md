@@ -80,4 +80,4 @@ Distributed under the Copyright License. See [`LICENSE`](LICENSE) for more infor
 - [Binara Wijewickrama](https://github.com/binarays)
 - [Zahra Ismail](https://github.com/Zahra-Ismail)
 - [*Heshan Thilakawardena](https://github.com/heshanthilakawardena)
-- [Thamindu Kavinda](https://github.com/)
+- [Thamindu Kavinda](https://github.com/Thamindu16)
